@@ -1,0 +1,25 @@
+{
+  "cookies": [
+    {
+      "name": "didomi_consent",
+      "value": "functional-group,analytical-group,personalisation-group,advertisement-group,cookies,measure_ad_performance,market_research,improve_products,select_basic_ads,create_ads_profile,select_personalized_ads,create_content_profile,select_personalized_content,use_limited_data_to_select_content,",
+      "domain": ".funda.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "didomi_token",
+      "value": "eyJ1c2VyX2lkIjoiMTkxOTAyMTYtNWY5MC02NjVjLWI2YmEtODhjZGI0Mzg1YmFlIiwiY3JlYXRlZCI6IjIwMjQtMDgtMjZUMTk6MTk6NTMuNTkzWiIsInVwZGF0ZWQiOiIyMDI0LTA4LTI2VDE5OjIwOjMyLjk5OFoiLCJ2ZW5kb3JzIjp7ImVuYWJsZWQiOlsiZ29vZ2xlIiwiYzpmdW5kYWZ1bmMtQUhoRDJZcTMiLCJjOnNlZ21lbnQtR1FwV1BRaEsiLCJjOmZ1bmRhcGFydC1pQk5nWFd3WCIsImM6ZGF0YWRvZy1yZHRZN0FtRSIsImM6Z29vZ2xlYW5hLWphZ242Tm5nIiwiYzpvcHRpbWl6ZWx5LTgyMkE2cU5nIiwiYzpjbG91ZGZsYXJlLThmbmEzRUhBIiwiYzpnb29nbGV0YWctZUVZUGozMloiLCJjOmhvdGphci1UODJqdENVcSIsImM6Z2V0ZmVlZGJhLUJ0alhGTDJaIiwiYzpzYWxlc2ZvcmNlLWtLN3JwZXhZIiwiYzppbmctanFYNmQzdFkiXX0sInB1cnBvc2VzIjp7ImVuYWJsZWQiOlsicGVyc29uYWxpc2F0aW9uLWdyb3VwIiwiYWR2ZXJ0aXNlbWVudC1ncm91cCJdfSwidmVyc2lvbiI6MiwiYWMiOiJFdC1BSUJFa0VEQUtNQWx2Z0FBQS5BQUFBIn0=",
+      "domain": ".funda.nl",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
